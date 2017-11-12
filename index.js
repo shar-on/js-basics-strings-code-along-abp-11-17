@@ -1,9 +1,7 @@
 
-
-const currentUser = 'Edsger Dijkstra';
 ...
 
-const shortGreeting = ...;
+const shortGreeting = 'Welcome, ';
 
 shortGreeting;
 //=> "Welcome, E!"
