@@ -1,0 +1,1 @@
+const currentUser = 'Grace Hopper';
