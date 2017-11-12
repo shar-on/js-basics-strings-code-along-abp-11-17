@@ -1,6 +1,7 @@
 
 ...
 
+const shortGreeting = '';
 const shortGreeting = `Welcome, ${currentUser}`;
 
 shortGreeting;
